@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml:2:1-117
+INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml:2:1-117
+INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml:2:1-117
+	package
+		ADDED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml:2:70-115
+		INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/ann/Desktop/otusКурсы/MultiplatformApp/shared/src/androidMain/AndroidManifest.xml

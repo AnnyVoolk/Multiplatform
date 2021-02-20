@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: dev.icerock.moko:network-iosarm64:klib:0.9.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.icerock.moko/network-iosarm64/0.9.3/d81bd37eb9e1e0bd9845118acb25d62c5e3e7af2/network.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/dev.icerock.moko/network-iosarm64/0.9.3/24f74e86c374881d9c7c246700e860ebda6ea869/network-iosarm64-0.9.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

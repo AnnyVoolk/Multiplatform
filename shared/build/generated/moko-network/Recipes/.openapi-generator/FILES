@@ -1,0 +1,9 @@
+.openapi-generator-ignore
+docs/ErrorModel.md
+docs/Recipe.md
+docs/RecipeApi.md
+docs/RecipeList.md
+src/main/kotlin/dev/icerock/moko/network/generated/apis/RecipeApi.kt
+src/main/kotlin/dev/icerock/moko/network/generated/models/ErrorModel.kt
+src/main/kotlin/dev/icerock/moko/network/generated/models/Recipe.kt
+src/main/kotlin/dev/icerock/moko/network/generated/models/RecipeList.kt

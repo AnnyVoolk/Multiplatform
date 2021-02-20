@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-iosx64:klib:1.0.0-RC">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-iosx64/1.0.0-RC/fd4f4f6f723db8d3e4c97374b6bc1960f6370a36/kotlinx-serialization-core.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-iosx64/1.0.0-RC/8cc378151067e0d16a41cb7ad733ad5a9d443ca3/kotlinx-serialization-core-iosx64-1.0.0-RC-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

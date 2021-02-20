@@ -1,0 +1,2 @@
+com/example/multiplanformapp/shared/BuildConfig.java
+ com.example.multiplanformapp.shared.BuildConfig

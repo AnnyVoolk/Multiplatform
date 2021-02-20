@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ann/Desktop/otusКурсы/MultiplatformApp/androidApp/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ann/Desktop/otusКурсы/MultiplatformApp/androidApp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ann/Desktop/otusКурсы/MultiplatformApp/androidApp/build/intermediates/res/merged/debug/layout_recipes.xml.flat",
+        "source": "/Users/ann/Desktop/otusКурсы/MultiplatformApp/androidApp/src/main/res/layout/recipes.xml"
+    }
+]
